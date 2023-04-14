@@ -1,0 +1,6 @@
+# ingnore arquivos compilados
+bin
+
+
+# --
+.DS_Store
